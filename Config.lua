@@ -1,8 +1,8 @@
 module(...)
 
-DeviceName = "health"
-ProductKey = "a1S4c1iyR3o"
-DeviceSecret = "AV3UysrvMWffhJva9sDyEUiEDYZBDoJ6"
+DeviceName = "he***th"
+ProductKey = "a1*****R3o"
+DeviceSecret = "AV3UysrvMW*********YZBDoJ6"
 
 
 
